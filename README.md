@@ -1,2 +1,2 @@
-# ts-example-prictical
+# ts-example-practical
 Немного практических примеров TS
